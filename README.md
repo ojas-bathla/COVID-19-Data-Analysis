@@ -56,3 +56,7 @@ Performed in Jupyter Notebook:
   - Total Deaths
 - **Pie chart**:
 - Male and female vaccinated
+
+
+<img width="1287" height="722" alt="image" src="https://github.com/user-attachments/assets/ffc96ed8-2d65-4e33-81e0-1a239b6005ff" />
+
