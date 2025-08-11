@@ -1,5 +1,4 @@
 # COVID-19-Data-Analysis
-# COVID-19 Data Analysis & Interactive Dashboard (Python + Power BI)
 
 ## 📌 Overview
 This project combines **Python-based exploratory data analysis (EDA)** with an **interactive Power BI dashboard** to visualize COVID-19 trends in India.  
